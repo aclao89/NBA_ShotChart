@@ -22,4 +22,13 @@ With a little bit of frequency analytics, coaches can devise plays based on wher
 
 ### Components of shotchart
 
-A shot chart contains two layers. The bottom (first) layer is a picture of the drawing of a basketball court. The top (second) layer is a scatterplot of the shot locations. Once these two overlap, we can visually see those shots as dots over a half court.
+A shot chart contains two layers.
+
+The bottom (first) layer is a picture of the drawing of a basketball court.
+
+![blank court](https://github.com/aclao89/NBA_ShotChart/blob/main/nba_court.jpg)
+
+
+The top (second) layer is a scatterplot of the shot locations. Once these two overlap, we can visually see those shots as dots over a half court. Example shown with Stephen Curry's shots from the 2021-2022 season (for demo purposes - not finished)
+
+![raw_curry](https://github.com/aclao89/NBA_ShotChart/blob/main/curry_21_22_reg_raw.png)
