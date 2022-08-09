@@ -32,3 +32,11 @@ The bottom (first) layer is a picture of the drawing of a basketball court.
 The top (second) layer is a scatterplot of the shot locations. Once these two overlap, we can visually see those shots as dots over a half court. Example shown with Stephen Curry's shots from the 2021-2022 season (for demo purposes - not finished)
 
 ![raw_curry](https://github.com/aclao89/NBA_ShotChart/blob/main/curry_21_22_reg_raw.png)
+
+### Other uses of the shotchart
+
+#### Defense:
+On the contrary, opposing teams can use a shot chart to find players' sweet spots and formulate a plan to deny the ball to certain players. This information is priceless in the hands of a coach who has the right defensive players.
+
+#### Player Development:
+While a shot chart is meant to be used to highlight strengths, it also pinpoints some of the holes in a player’s game. You see the same amount of bad and good from a shot chart, and this can be a point of emphasis and learning during player development.
