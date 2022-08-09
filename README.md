@@ -13,14 +13,14 @@ I came across tons of player shot charts but gathering data can be a daunting ta
 The NBA’s API (application programming interface) provides a whole variety of data and player information. This data is a result of some of the newest technology with player tracking and information management, which provides a great backing for how information is collected by the NBA and teams.
 
 The NBA API provides shotchartdetail within ShotChartDetail that will return a DataFrame with the X and Y coordinates of all the shots taken by a player you are requesting. These X and Y coordinates can be plotted in a scatter plot, which when overlaid on a court will result in your final shot chart.
-## What is an NBA shotchart?
+## What is an NBA shot chart?
 
 A shotchart is a type of visualization that allows coaches and players to assess strong
 and weak points of a player's shot selection. These charts give coaches an idea
 of how effective a player's offensive capabilities can be in certain areas on the court.
 With a little bit of frequency analytics, coaches can devise plays based on where players are making the most shots, which can allow players to be more effectively utilized in a game.
 
-### Components of shotchart
+### Components of a shot chart
 
 A shot chart contains two layers.
 
@@ -33,10 +33,13 @@ The top (second) layer is a scatterplot of the shot locations. Once these two ov
 
 ![raw_curry](https://github.com/aclao89/NBA_ShotChart/blob/main/curry_21_22_reg_raw.png)
 
-### Other uses of the shotchart
+### Other uses of a shot chart
 
 #### Defense:
 On the contrary, opposing teams can use a shot chart to find players' sweet spots and formulate a plan to deny the ball to certain players. This information is priceless in the hands of a coach who has the right defensive players.
 
 #### Player Development:
-While a shot chart is meant to be used to highlight strengths, it also pinpoints some of the holes in a player’s game. You see the same amount of bad and good from a shot chart, and this can be a point of emphasis and learning during player development.
+While a shot chart is meant to be used to highlight strengths, it also pinpoints some of the holes in a player’s game. Shot charts display both bad and good shot attempts, and this can be a point of emphasis and learning during player development.
+
+#### Zones:
+With the court split into zones, coaches and teams are better able to understand the needs they have for their current team. For example, a team defending the Golden State Warriors will emphasize more perimeter and on-ball defense to combat against their shooting, passing, and active ball movement. With zones, shooting locations provide a reason for zone defenses or offenses against certain superstar players.
